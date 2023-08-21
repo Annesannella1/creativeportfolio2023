@@ -232,7 +232,7 @@ section {
 
 /*Gallery*/
 .sec-gallery .row:first-of-type {
-  margin-top: 5em;
+  margin-top: 8em;
 }
 
 .sec-gallery .row:last-of-type {
@@ -248,7 +248,7 @@ section {
   width: 200px;
   height: 200px;
   border: 0.15em solid #333;
-  filter: grayscale(100%);
+  filter: grayscale(0%);
   transition: all 0.5s ease;
 }
 .img-container img:hover {
@@ -261,6 +261,7 @@ section {
 }
 
 .sec-contact h1 {
+  margin-top: 1em;
   margin-bottom: 1em;
 }
 

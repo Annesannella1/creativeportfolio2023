@@ -359,8 +359,8 @@ form input[type=button]:active, form input[type=button]:hover {
   position: absolute;
   top: 0;
   left: 0;
-  width: 60%;
-  height: 60%;
+  width: auto;
+  height: auto;
   background: url(./1000001513.png) no-repeat;
   background-size: cover;
   filter: grayscale(100%);

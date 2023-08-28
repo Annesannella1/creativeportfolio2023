@@ -353,3 +353,11 @@ form input[type=button]:active, form input[type=button]:hover {
 .soc-media-about li:not(:last-of-type) {
   margin-right: 1em;
 }
+
+@media (min-width: 320px) and (max-width: 768px) {
+  background: url(./10000001513.png) no-repeat;
+  background-size: cover;
+  filter: grayscale(100%);
+  
+  }
+}

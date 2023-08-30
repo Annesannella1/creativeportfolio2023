@@ -187,6 +187,16 @@ main {
   background-size: cover;
   filter: grayscale(100%);
 }
+.svg-container, .svg-container iframe {
+    position: relative;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    background: url(./portfolioheader.png) no-repeat center center;
+    border: 0.5em solid #000;
+    border-radius: 50%;
+    overflow: hidden;
+}
 
 /*Sections*/
 section {
@@ -361,10 +371,17 @@ form input[type=button]:active, form input[type=button]:hover {
   left: 0;
   width: auto;
   height: auto;
-  background: url(./1000001513.png) no-repeat;
-  background-size: cover;
-  filter: grayscale(100%);
+  
   background-color: blue;  
   } 
-  
+  .svg-container, .svg-container iframe {
+    position: relative;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    background: url(./1000001513.png) no-repeat center center;
+    border: 0.5em solid #000;
+    border-radius: 50%;
+    overflow: hidden;
+}
 }

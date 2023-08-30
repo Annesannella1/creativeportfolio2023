@@ -364,7 +364,7 @@ form input[type=button]:active, form input[type=button]:hover {
   background: url(./1000001513.png) no-repeat;
   background-size: cover;
   filter: grayscale(100%);
-  baskground-color: blue;  
+  background-color: blue;  
   } 
   
 }

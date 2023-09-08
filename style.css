@@ -190,8 +190,8 @@ main {
 .svg-container, .svg-container iframe {
     position: relative;
     margin: auto;
-    width: 250px;
-    height: 250px;
+    width: 600px;
+    height: 600px;
     background: url(./portfolioheader.png) no-repeat center center;
     border: 0.5em solid #000;
     border-radius: 50%;

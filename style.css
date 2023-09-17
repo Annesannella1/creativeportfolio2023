@@ -188,9 +188,11 @@ main {
   filter: grayscale(100%);*/
 }
 .svg-container, .svg-container iframe {
-    position: absolute;
-    max-width: 400px;
-    margin: 0;
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
     width: 400px;
     height: 400px;
     background: url(./1000001513.png) no-repeat center center;

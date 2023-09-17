@@ -189,7 +189,8 @@ main {
 }
 .svg-container, .svg-container iframe {
     position: absolute;
-    margin: auto;
+    max-width: 400px;
+    margin: 0;
     width: 400px;
     height: 400px;
     background: url(./1000001513.png) no-repeat center center;

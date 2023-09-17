@@ -190,9 +190,9 @@ main {
 .svg-container, .svg-container iframe {
     position: relative;
     margin-top: 500px;
-    margin-bottom: 100px;
-    margin-right: 500px;
-    margin-left: 0px;
+    margin-bottom: 200px;
+    margin-right: 150px;
+    margin-left: 100px;
     width: 400px;
     height: 400px;
     background: url(./1000001513.png) no-repeat center center;

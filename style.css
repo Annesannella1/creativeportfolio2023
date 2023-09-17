@@ -188,7 +188,7 @@ main {
   filter: grayscale(100%);*/
 }
 .svg-container, .svg-container iframe {
-    position: relative;
+    position: absolute;
     margin: auto;
     width: 400px;
     height: 400px;

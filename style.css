@@ -191,8 +191,8 @@ main {
     position: relative;
     margin-top: 500px;
     margin-bottom: 200px;
-    margin-right: 150px;
-    margin-left: 100px;
+    margin-right: auto;
+    margin-left: auto;
     width: 400px;
     height: 400px;
     background: url(./1000001513.png) no-repeat center center;

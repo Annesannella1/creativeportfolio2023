@@ -155,6 +155,7 @@ header {
   margin: auto;
   width: 600px;
   text-transform: uppercase;
+  color: darkgreen;
 }
 
 /*Nav*/
@@ -401,6 +402,7 @@ p {
   margin: inherit;
   width: 280px;
   text-transform: uppercase;
+  color: darkgreen;
 }
   main {
   position: absolute;
@@ -413,7 +415,7 @@ p {
   } 
   .svg-container, .svg-container iframe {
     position: relative;
-    margin: 475px 300px auto auto;
+    margin: 475px 400px auto auto;
     width: 250px;
     height: 250px;
     background: url(./1000001513.png) no-repeat center center;

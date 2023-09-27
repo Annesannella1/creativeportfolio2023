@@ -183,6 +183,7 @@ main {
   left: 0;
   width: 100%;
   height: 100%;
+  overflow: hidden;
  /* background: url(./portfolioheader.png) no-repeat;
   background-size: cover;
   filter: grayscale(100%);*/
@@ -398,7 +399,7 @@ p {
 
   header {
   margin: inherit;
-  width: 300px;
+  width: 280px;
   text-transform: uppercase;
 }
   main {

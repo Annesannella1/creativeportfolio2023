@@ -368,9 +368,36 @@ form input[type=button]:active, form input[type=button]:hover {
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
+  html {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 3em;
+  line-height: 1.05em;
+}
+
+h2,
+h3 {
+  line-height: 1.25em;
+}
+
+h2 {
+  font-size: 2.25em;
+}
+
+h3 {
+  font-size: 1.75em;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 1.375em;
+}
+
 
   header {
-  margin: auto;
+  margin: inherit;
   width: 300px;
   text-transform: uppercase;
 }
@@ -385,7 +412,7 @@ form input[type=button]:active, form input[type=button]:hover {
   } 
   .svg-container, .svg-container iframe {
     position: relative;
-    margin: 500px 200px auto auto;
+    margin: 175px 300px auto auto;
     width: 250px;
     height: 250px;
     background: url(./1000001513.png) no-repeat center center;

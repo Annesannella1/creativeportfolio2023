@@ -399,7 +399,7 @@ p {
 
 
   header {
-  margin: inherit;
+  margin: auto;
   width: 280px;
   text-transform: uppercase;
   color: darkgreen;
@@ -415,7 +415,7 @@ p {
   } 
   .svg-container, .svg-container iframe {
     position: relative;
-    margin: 475px 200px auto auto;
+    margin: 70px 70px 70px 70px;
     width: 250px;
     height: 250px;
     background: url(./1000001513.png) no-repeat center center;

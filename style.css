@@ -423,4 +423,30 @@ p {
     border-radius: 50%;
     overflow: hidden;
 }
+  /*Gallery*/
+.sec-gallery .row:first-of-type {
+  margin-top: 8em;
+}
+
+.sec-gallery .row:last-of-type {
+  margin-bottom: 5em;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 812px;
+}
+
+.img-container img {
+  width: 200px;
+  height: 200px;
+  border: 0.15em solid #333;
+  filter: grayscale(0%);
+  transition: all 0.5s ease;
+}
+.img-container img:hover {
+  filter: grayscale(0%);
+}
 }

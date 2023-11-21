@@ -436,8 +436,8 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: auto;
-  width: 812px;
+  /*margin: auto;
+  width: 812px;*/
 }
 
 .img-container img {

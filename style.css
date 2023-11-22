@@ -440,7 +440,7 @@ p {
   flex-wrap: wrap;
   align-content: space-between;
   height: 550px;
-  background-color: red;
+  width: 100px;
   /*margin: auto;
   width: 812px;*/
 }

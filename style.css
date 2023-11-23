@@ -435,7 +435,15 @@ p {
 }
     
 .img-container {
-  display: -webkit-flex;
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 290px));
+  grid-gap: 1rem;
+  padding: 1rem;
+  justify-content: center;
+  box-shadow: 0 1px 1px #000;
+  
+ /* display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;

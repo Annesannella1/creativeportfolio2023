@@ -250,7 +250,7 @@ section {
   margin-top: 8em;
 }
 
-.sec-gallery .column:first-of-type {
+.sec-gallery .row:last-of-type {
   margin-bottom: 5em;
 }
 
@@ -430,7 +430,7 @@ p {
   margin-top: 8em;
 }
 
-.sec-gallery .colun:first-of-type {
+.sec-gallery .row:last-of-type {
   margin-bottom: 5em;
 }
     
@@ -443,7 +443,7 @@ p {
   max-width: 25%;
   /*margin: auto;
   width: 812px;*/
-}*/
+}
 
 .row {
   flex: 25%;

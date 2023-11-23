@@ -246,28 +246,19 @@ section {
 }
 
 /*Gallery*/
-/*.sec-gallery .row:first-of-type {
+.sec-gallery .row:first-of-type {
   margin-top: 8em;
 }
 
 .sec-gallery .column:first-of-type {
   margin-bottom: 5em;
 }
-*/
-.row { 
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-.column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
+
 
 .img-container {
-  margin-top: 8px;
+  margin: auto;
   vertical-align: middle;
-  width: 100%;
+  width: 812px;
 }
 
 .img-container img {

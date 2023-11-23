@@ -455,6 +455,7 @@ p {
   height: 200px;
   border: 0.15em solid #333;
   filter: grayscale(0%);
+  cursor: pointer;
   transition: all 0.5s ease;
 }
   

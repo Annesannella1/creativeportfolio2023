@@ -450,7 +450,7 @@ p {
   width: 812px;*/
 }*/
 
-.column {
+.row {
   flex: 100%;
   max-width: 100%;
 }

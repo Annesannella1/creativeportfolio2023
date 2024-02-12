@@ -401,7 +401,10 @@ p {
 
 
   header {
-  margin: auto;
+  margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 25px;
+    margin-right: auto;
   width: 75px;
   text-transform: uppercase;
   color: darkgreen;

@@ -431,7 +431,7 @@ p {
   /*Gallery*/
 
 .sec-gallery {
-  overflow: auto;
+  overflow: scroll;
 }
 .sec-gallery .row:first-of-type {
   margin-top: 8em;

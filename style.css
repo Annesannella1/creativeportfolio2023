@@ -430,9 +430,10 @@ p {
 }
   /*Gallery*/
 
-.sec-gallery {
+section, .sec-gallery, #sec-gallery {
   overflow: scroll;
 }
+  
 .sec-gallery .row:first-of-type {
   margin-top: 8em;
 }

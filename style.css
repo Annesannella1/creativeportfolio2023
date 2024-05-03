@@ -429,6 +429,10 @@ p {
     overflow: hidden;
 }
   /*Gallery*/
+
+.sec-gallery {
+  overflow: auto;
+}
 .sec-gallery .row:first-of-type {
   margin-top: 8em;
 }
